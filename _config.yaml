@@ -8,3 +8,8 @@ plugins:
 title: "TeX Hour"
 description: "A weekly video meeting"
 show_downloads: false
+
+permalink: /:categories/:year/:month/:day/:title/
+
+# Perhaps useful for page fragments.
+# https://remarkablemark.org/blog/2020/04/04/jekyll-heading-anchor-links/
