@@ -11,5 +11,10 @@ show_downloads: false
 
 permalink: /:categories/:year/:month/:day/:title/
 
+
+
+# https://seankilleen.com/2020/02/how-to-deploy-github-pages-on-a-schedule-to-publish-future-posts/
+future: true
+
 # Perhaps useful for page fragments.
 # https://remarkablemark.org/blog/2020/04/04/jekyll-heading-anchor-links/
