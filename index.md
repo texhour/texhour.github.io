@@ -16,4 +16,5 @@ layout: default
 - All of 2021 -- Not yet published
 - All of 2020 -- Not yet published
 
-For more information see the [About page]({% link about.md %})
+For more information and TeX Hour meeting URLs see the [About page]({%
+link about.md %})
