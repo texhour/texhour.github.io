@@ -1,5 +1,6 @@
 # https://stackoverflow.com/questions/10529859/how-to-include-video-in-jekyll-markdown-blog
 # https://gist.github.com/joelverhagen/1805814
+# https://stackoverflow.com/questions/53215356/jekyll-how-to-use-custom-plugins-with-github-pages
 class YouTube < Liquid::Tag
   Syntax = /^\s*([^\s]+)(\s+(\d+)\s+(\d+)\s*)?/
 
