@@ -10,7 +10,26 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.2.2"
+
+# Replace jekyll with github-pages, as in above docs URL.
+# gem "jekyll", "~> 4.2.2"
+gem "github-pages", "~> 227", group: :jekyll_plugins
+
+# After running
+#     $ bundle install
+#     got end-of-life message from sass:
+
+# Ruby Sass has reached end-of-life and should no longer be used.
+
+# * If you use Sass as a command-line tool, we recommend using Dart Sass, the new
+#   primary implementation: https://sass-lang.com/install
+
+# * If you use Sass as a plug-in for a Ruby web framework, we recommend using the
+#   sassc gem: https://github.com/sass/sassc-ruby#readme
+
+# * For more details, please refer to the Sass blog:
+#   https://sass-lang.com/blog/posts/7828841
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
