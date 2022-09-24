@@ -2,13 +2,18 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+{% assign data = site.data.posts[page.key] %}
+{% assign youtube_key = data.youtube.key %}
 
+<h1>{{ page.title }}</h1>
 
 <ul>
 <li>Date: {{ page.date | date: "%d" | plus:'0' }} {{ page.date | date: "%B %Y" }}</li>
 <li>Time: {{ page.hours }} BST (ie UK Time)</li>
 </ul>
+
+{%if youtube_key %}{% include youtube.html src=youtube_key %}{% endif %}
+
 {{ content }}
 
 <p><a href='/'>Home</a> &nbsp; &nbsp; <a href='/about'>About</p></p>
