@@ -11,7 +11,11 @@ show_downloads: false
 
 permalink: /:categories/:year/:month/:day/:title/
 
+# Fix: GitHub Metadata: No GitHub API authentication could be found. [..]
+# "No GitHub API authentication"
+# https://github.com/github/pages-gem/issues/399
 
+github: [metadata]
 
 # https://seankilleen.com/2020/02/how-to-deploy-github-pages-on-a-schedule-to-publish-future-posts/
 future: true
