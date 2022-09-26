@@ -20,5 +20,4 @@ We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zo
 - All of 2021 -- Not yet published
 - All of 2020 -- Not yet published
 
-For more information and TeX Hour meeting URLs see the [About page]({%
-link about.md %})
+{% include footer.html %}
