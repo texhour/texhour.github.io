@@ -5,7 +5,7 @@ layout: default
 We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zoom URL see [the About page](about).
 
 ### Future TeX Hours
-- 6 October 2022 --- [Safe TeX Macros]({% post_url 2022-10-05-texhour %})
+- 6 October 2022 --- [Safe TeX Macros]({% post_url 2022-10-06-texhour %})
 - November 2022 --- TBA
 - December 2022 --- TBA
 
