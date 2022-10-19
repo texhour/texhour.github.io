@@ -6,7 +6,7 @@ We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zo
 
 ### Future TeX Hours
 
-- 20 October 2022 --- [Identical inputs via the XML Catalog]({% post_url 2022-10-20-texhour %})
+- 20 October 2022 --- [Same inputs via the XML Catalog]({% post_url 2022-10-20-texhour %})
 - November 2022 --- TBA
 - December 2022 --- TBA
 
