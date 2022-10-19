@@ -5,12 +5,14 @@ layout: default
 We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zoom URL see [the About page](about).
 
 ### Future TeX Hours
-- 13 October 2022 --- [Generating accessible HTML]({% post_url 2022-10-13-texhour %})
+
+- 20 October 2022 --- [Identical inputs via the XML Catalog]({% post_url 2022-10-20-texhour %})
 - November 2022 --- TBA
 - December 2022 --- TBA
 
 ### Past TeX Hours
 
+- 13 October 2022 --- [Generating accessible HTML]({% post_url 2022-10-13-texhour %})
 - 6 October 2022 --- [Safe TeX Macros]({% post_url 2022-10-06-texhour %})
 - 29 September 2022 --- [Rethinking TeX in STEM (talks)]({% post_url 2022-09-29-texhour %})
 - 29 September 2022 --- [Rethinking TeX in STEM (discussion)]({% post_url 2022-09-29-bonus-texhour %})
