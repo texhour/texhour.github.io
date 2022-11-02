@@ -7,15 +7,14 @@ We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zo
 ### Future TeX Hours
 
 
+- 3 November 2022 -- [All topics welcome]({% post_url 2022-11-03-texhour %})
+- Rest of November 2022 --- TBA
 - 1 December 2022 --- [STEM author access]({% post_url 2022-12-01-texhour %})
-
-
-- 27 October 2022 --- [Fun and games with Git and Fossil]({% post_url 2022-10-27-texhour %})
-- November 2022 --- TBA
-- December 2022 --- TBA
+- Rest of December 2022 --- TBA
 
 ### Past TeX Hours
 
+- 27 October 2022 --- [Fun and games with Git and Fossil]({% post_url 2022-10-27-texhour %})
 - 20 October 2022 --- [Same inputs via the XML Catalog]({% post_url 2022-10-20-texhour %})
 - 13 October 2022 --- [Generating accessible HTML]({% post_url 2022-10-13-texhour %})
 - 6 October 2022 --- [Safe TeX Macros]({% post_url 2022-10-06-texhour %})
