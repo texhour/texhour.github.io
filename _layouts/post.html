@@ -9,7 +9,7 @@ layout: default
 
 <ul>
 <li>Date: {{ page.date | date: "%d" | plus:'0' }} {{ page.date | date: "%B %Y" }}</li>
-<li>Time: {{ page.hours }} BST (ie UK Time)</li>
+<li>Time: {{ page.hours }} (UK Time)</li>
 </ul>
 
 {%if youtube_key %}{% include youtube.html src=youtube_key %}{% endif %}

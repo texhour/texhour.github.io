@@ -7,15 +7,19 @@ layout: default
 
 ## Meetings
 
-Most Thursdays, 6:30 to 7:30pm BST (ie UK time) there will be an
+Most Thursdays, 6:30 to 7:30pm (UK time) there will be an
 online video TeX Hour. The UK time right now [is
 here](https://time.is/UK).
 
-The zoom details are
+The Zoom URL is:
 
-https://us02web.zoom.us/j/78551255396?pwd=cHdJN0pTTXRlRCtSd1lCTHpuWmNIUT09
+<https://us02web.zoom.us/j/78551255396?pwd=cHdJN0pTTXRlRCtSd1lCTHpuWmNIUT09>
 
-Meeting ID: 785 5125 5396 Passcode: knuth
+Here in case needed are:
+
+Meeting ID: 785 5125 5396
+
+Passcode: knuth
 
 
 ## Videos
