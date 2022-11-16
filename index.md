@@ -6,7 +6,8 @@ We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zo
 
 ### Future TeX Hours
 
-- 10 November 2022 -- [arXiv access + TeX Macro Store]({% post_url 2022-11-10-texhour %})
+- 17 November 2022 -- [Less is more --- micropublishing]({% post_url 2022-11-17-texhour %})
+
 
 - Rest of November 2022 --- TBA
 - 1 December 2022 --- [STEM author access]({% post_url 2022-12-01-texhour %})
@@ -14,6 +15,7 @@ We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zo
 
 ### Past TeX Hours
 
+- 10 November 2022 -- [arXiv access + TeX Macro Store]({% post_url 2022-11-10-texhour %})
 - 3 November 2022 -- [All topics welcome]({% post_url 2022-11-03-texhour %})
 - 27 October 2022 --- [Fun and games with Git and Fossil]({% post_url 2022-10-27-texhour %})
 - 20 October 2022 --- [Same inputs via the XML Catalog]({% post_url 2022-10-20-texhour %})
