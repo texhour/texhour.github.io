@@ -7,8 +7,8 @@ layout: default
 
 ## Meetings
 
-Most Thursdays, 6:30 to 7:30pm (UK time) there will be an
-online video TeX Hour. The UK time right now [is
+Most Thursdays, 6:30 to 7:30pm UK time (in winter GMT, in summer BST)
+there will be an online video TeX Hour. The UK time right now [is
 here](https://time.is/UK).
 
 The Zoom URL is:

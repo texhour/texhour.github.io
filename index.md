@@ -2,7 +2,9 @@
 layout: default
 ---
 
-We meet most Thursdays, 6:30 to 7:30pm BST (ie UK time). For more details and Zoom URL see [the About page](about).
+We meet most Thursdays, 6:30 to 7:30pm UK time (in winter GMT, in
+summer BST). For more details and Zoom URL see [the About
+page](about).
 
 ### Future TeX Hours
 
