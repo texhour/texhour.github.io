@@ -8,14 +8,12 @@ page](about).
 
 ### Future TeX Hours
 
-#### November 2022
-- 24 November -- [Thanksgiving social]({% post_url 2022-11-24-texhour %})
+#### Next
 
+- 8 December --- [Vector graphics: A rough survey]({% post_url 2022-12-08-texhour %})
 
 #### December 2022
 
-- 1 December --- [Less is more --- make TeX small again]({% post_url 2022-12-01-texhour %})
-- 8 December --- To be announced.
 - 15 December --- [Party: One hundred hours of TeX]({% post_url 2022-12-15-texhour %})
 - 22 December --- No meeting.
 - 29 December --- [Trial of open source video conferencing]({% post_url 2022-12-29-texhour %})
@@ -30,8 +28,14 @@ page](about).
 
 ### Past TeX Hours
 
+#### December 2022
+
+- 1 December --- [Less is more --- make TeX small again]({% post_url 2022-12-01-texhour %})
+
+
 #### November 2022
 
+- 24 November -- [Thanksgiving social]({% post_url 2022-11-24-texhour %})
 - 17 November -- [Less is more --- micropublishing]({% post_url 2022-11-17-texhour %})
 - 10 November -- [arXiv access + TeX Macro Store]({% post_url 2022-11-10-texhour %})
 - 3 November -- [All topics welcome]({% post_url 2022-11-03-texhour %})
