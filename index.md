@@ -8,13 +8,12 @@ page](about).
 
 ### Future TeX Hours
 
-#### Next
+- 15 December --- [Party: One hundred hours of TeX]({% post_url 2022-12-15-texhour %})
 
-- 8 December --- [Vector graphics: A rough survey]({% post_url 2022-12-08-texhour %})
+#### Next
 
 #### December 2022
 
-- 15 December --- [Party: One hundred hours of TeX]({% post_url 2022-12-15-texhour %})
 - 22 December --- No meeting.
 - 29 December --- [Trial of open source video conferencing]({% post_url 2022-12-29-texhour %})
 
@@ -30,6 +29,7 @@ page](about).
 
 #### December 2022
 
+- 8 December --- [Vector graphics: A rough survey]({% post_url 2022-12-08-texhour %})
 - 1 December --- [Less is more --- make TeX small again]({% post_url 2022-12-01-texhour %})
 
 
