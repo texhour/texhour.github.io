@@ -8,27 +8,23 @@ page](about).
 
 ### Future TeX Hours
 
-- 15 December --- [Party: One hundred hours of TeX]({% post_url 2022-12-15-texhour %})
-
-#### Next
-
-#### December 2022
-
-- 22 December --- No meeting.
-- 29 December --- [Trial of open source video conferencing]({% post_url 2022-12-29-texhour %})
-
 #### January 2023
 
-- 5 January --- [New Year wishes, resolutions and predictions]({% post_url 2023-01-05-texhour %})
-- 12 January --- To be announced.
+- 12 January --- [Scientific notebooks: from Galileo to today]({% post_url 2023-01-12-texhour %})
 - 19 January --- [STEM access: from author to reader]({% post_url 2023-01-19-texhour %})
 - 26 January --- To be announced.
 
 
 ### Past TeX Hours
 
+#### January 2023
+
+- 5 January --- [New Year wishes, resolutions and predictions]({% post_url 2023-01-05-texhour %})
+
 #### December 2022
 
+- 29 December --- [Trial of open source video conferencing]({% post_url 2022-12-29-texhour %})
+- 15 December --- [Party: One hundred hours of TeX]({% post_url 2022-12-15-texhour %})
 - 8 December --- [Vector graphics: A rough survey]({% post_url 2022-12-08-texhour %})
 - 1 December --- [Less is more --- make TeX small again]({% post_url 2022-12-01-texhour %})
 
