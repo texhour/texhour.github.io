@@ -8,11 +8,9 @@ page](about).
 
 ### Future TeX Hours
 
-#### January 2023
+#### February 2023
 
-- 12 January --- [Scientific notebooks: from Galileo to today]({% post_url 2023-01-12-texhour %})
-- 19 January --- [STEM access: from author to reader]({% post_url 2023-01-19-texhour %})
-- 26 January --- To be announced.
+- 2 February --- To be announced.
 
 
 ### Past TeX Hours
@@ -20,6 +18,10 @@ page](about).
 #### January 2023
 
 - 5 January --- [New Year wishes, resolutions and predictions]({% post_url 2023-01-05-texhour %})
+- 12 January --- [Scientific notebooks: from Galileo to today]({% post_url 2023-01-12-texhour %})
+- 19 January --- [STEM access: from author to reader (talks)]({% post_url 2023-01-19-texhour %})
+- 19 January --- [STEM access: from author to reader (discussion)]({% post_url 2023-01-19-bonus-texhour %})
+- 26 January --- No meeting
 
 #### December 2022
 
