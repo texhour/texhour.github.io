@@ -10,7 +10,7 @@ page](about).
 
 #### February 2023
 
-- 2 February --- To be announced.
+- 2 February --- [Integer Sequences and Digital Typography]({% post_url 2023-02-02-texhour %})
 
 
 ### Past TeX Hours
