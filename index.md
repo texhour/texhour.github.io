@@ -10,10 +10,18 @@ page](about).
 
 #### February 2023
 
-- 2 February --- [Integer Sequences and Digital Typography]({% post_url 2023-02-02-texhour %})
+- 23 February --- [Digital Typography: from DESQview to Wayland]({% post_url 2023-02-23-texhour %})
+
 
 
 ### Past TeX Hours
+
+#### February 2023
+
+- 16 February --- No meeting
+- 9 February --- No meeting
+- 2 February --- [Integer Sequences and Digital Typography]({% post_url 2023-02-02-texhour %})
+
 
 #### January 2023
 
