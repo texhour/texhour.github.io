@@ -8,9 +8,9 @@ page](about).
 
 ### Future TeX Hours
 
-#### February 2023
+#### March 2023
 
-- 23 February --- [Digital Typography: from DESQview to Wayland]({% post_url 2023-02-23-texhour %})
+- 2 March --- [Regression tests and unlatex]({% post_url 2023-03-02-texhour %})
 
 
 
@@ -18,6 +18,7 @@ page](about).
 
 #### February 2023
 
+- 23 February --- [Digital Typography: from DESQview to Wayland]({% post_url 2023-02-23-texhour %})
 - 16 February --- No meeting
 - 9 February --- No meeting
 - 2 February --- [Integer Sequences and Digital Typography]({% post_url 2023-02-02-texhour %})
