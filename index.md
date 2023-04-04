@@ -10,8 +10,6 @@ page](about).
 
 #### March 2023
 
-- 30 March --- [LaTeX and the arXiv Access Tree]({% post_url 2023-03-30-texhour %})
-
 #### April 2023
 
 -  6 April --- [The arXiv Accessibility Report]({% post_url 2023-04-06-texhour %})
@@ -23,6 +21,8 @@ page](about).
 
 
 #### March 2023
+
+- 30 March --- [LaTeX and the arXiv Access Tree]({% post_url 2023-03-30-texhour %})
 - 23 March --- [Typst: TeX and LaTeX rethought in Rust]({% post_url 2023-03-23-texhour %})
 - 9 March --- [Unlatex, texbox and the access tree]({% post_url 2023-03-09-texhour %})
 - 2 March --- [Regression tests and unlatex]({% post_url 2023-03-02-texhour %})
