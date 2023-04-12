@@ -8,16 +8,17 @@ page](about).
 
 ### Future TeX Hours
 
-#### March 2023
-
 #### April 2023
 
--  6 April --- [The arXiv Accessibility Report]({% post_url 2023-04-06-texhour %})
 -  13 April --- [Unlatex: Results and Prospects]({% post_url 2023-04-13-texhour %})
 
 
 
 ### Past TeX Hours
+
+#### April 2023
+
+-  6 April --- [The arXiv Accessibility Report]({% post_url 2023-04-06-texhour %})
 
 
 #### March 2023
