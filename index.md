@@ -6,13 +6,18 @@ We meet most Thursdays, 6:30 to 7:30pm UK time (in winter GMT, in
 summer BST). For more details and Zoom URL see [the About
 page](about).
 
+### Accessibility
+
+We're delighted with the well-deserved success of the arXiv
+Accessibility forum. It's something we care about, as see as vital for
+the future of TeX and LaTeX. For more information see our
+[Accessibility](access) page.
+
 ### Future TeX Hours
 
 #### April 2023
 
 -  13 April --- [Unlatex: Results and Prospects]({% post_url 2023-04-13-texhour %})
-
-
 
 ### Past TeX Hours
 
