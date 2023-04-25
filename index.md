@@ -16,13 +16,14 @@ the future of TeX and LaTeX. For more information see our
 ### Future TeX Hours
 
 #### April 2023
+-  27 April --- [Documents, warnings and errors at scale]({% post_url 2023-04-27-texhour %})
 
--  20 April --- [Why paper? Why print? Why PDF? Why HTML?]({% post_url 2023-04-20-texhour %})
 
 ### Past TeX Hours
 
 #### April 2023
 
+-  20 April --- [Why paper? Why print? Why PDF? Why HTML?]({% post_url 2023-04-20-texhour %})
 -  13 April --- [Unlatex: Results and Prospects]({% post_url 2023-04-13-texhour %})
 -  6 April --- [The arXiv Accessibility Report]({% post_url 2023-04-06-texhour %})
 
