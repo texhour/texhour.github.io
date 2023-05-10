@@ -15,11 +15,17 @@ the future of TeX and LaTeX. For more information see our
 
 ### Future TeX Hours
 
-#### April 2023
+#### May 2023
+
+-  11 May --- To be announced later today!
+
+
+### Past TeX Hours
+
+#### May 2023
 
 -  4 May --- [Celebrate 30 years open source WWW]({% post_url 2023-05-04-texhour %})
 
-### Past TeX Hours
 
 #### April 2023
 
@@ -33,6 +39,7 @@ the future of TeX and LaTeX. For more information see our
 
 - 30 March --- [LaTeX and the arXiv Access Tree]({% post_url 2023-03-30-texhour %})
 - 23 March --- [Typst: TeX and LaTeX rethought in Rust]({% post_url 2023-03-23-texhour %})
+- 16 March --- [Lucky Dip (not recorded)]({% post_url 2023-03-16-texhour %})
 - 9 March --- [Unlatex, texbox and the access tree]({% post_url 2023-03-09-texhour %})
 - 2 March --- [Regression tests and unlatex]({% post_url 2023-03-02-texhour %})
 
