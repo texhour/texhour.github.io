@@ -17,7 +17,7 @@ the future of TeX and LaTeX. For more information see our
 
 #### May 2023
 
--  11 May --- To be announced later today!
+- 11 May --- [LaTeXML access audit of arXiv LaTeX source]({% post_url 2023-05-11-texhour %})
 
 
 ### Past TeX Hours
