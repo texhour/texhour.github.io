@@ -15,15 +15,22 @@ the future of TeX and LaTeX. For more information see our
 
 ### Future TeX Hours
 
+#### June 2023
+
+- 2 June --- to be announced
+- 9 June --- to be announced
+
+
 #### May 2023
 
-- 11 May --- [LaTeXML access audit of arXiv LaTeX source]({% post_url 2023-05-11-texhour %})
-
+- 25 May --- no meeting
+- 18 May --- no meeting
 
 ### Past TeX Hours
 
 #### May 2023
 
+- 11 May --- [LaTeXML access audit of arXiv LaTeX source]({% post_url 2023-05-11-texhour %})
 -  4 May --- [Celebrate 30 years open source WWW]({% post_url 2023-05-04-texhour %})
 
 
