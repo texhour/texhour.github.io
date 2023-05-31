@@ -17,8 +17,8 @@ the future of TeX and LaTeX. For more information see our
 
 #### June 2023
 
-- 2 June --- to be announced
-- 9 June --- to be announced
+- 1 June --- [arXiv questions]({% post_url 2023-06-01-texhour %})
+- 8 June --- to be announced
 
 
 #### May 2023
