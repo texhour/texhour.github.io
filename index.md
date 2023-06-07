@@ -17,19 +17,19 @@ the future of TeX and LaTeX. For more information see our
 
 #### June 2023
 
-- 1 June --- [arXiv questions]({% post_url 2023-06-01-texhour %})
-- 8 June --- to be announced
+- 8 June --- [NumFOCUS]({% post_url 2023-06-08-texhour %})
 
-
-#### May 2023
-
-- 25 May --- no meeting
-- 18 May --- no meeting
 
 ### Past TeX Hours
 
-#### May 2023
+#### June 2023
 
+- 1 June --- [arXiv questions]({% post_url 2023-06-01-texhour %})
+
+
+#### May 2023
+- 25 May --- no meeting
+- 18 May --- no meeting
 - 11 May --- [LaTeXML access audit of arXiv LaTeX source]({% post_url 2023-05-11-texhour %})
 -  4 May --- [Celebrate 30 years open source WWW]({% post_url 2023-05-04-texhour %})
 
