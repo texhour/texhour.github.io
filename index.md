@@ -17,13 +17,14 @@ the future of TeX and LaTeX. For more information see our
 
 #### June 2023
 
-- 8 June --- [NumFOCUS]({% post_url 2023-06-08-texhour %})
+- 15 June --- [TALMO Accessible Math]({% post_url 2023-06-15-texhour %})
 
 
 ### Past TeX Hours
 
 #### June 2023
 
+- 8 June --- [NumFOCUS]({% post_url 2023-06-08-texhour %})
 - 1 June --- [arXiv questions]({% post_url 2023-06-01-texhour %})
 
 
