@@ -17,7 +17,7 @@ the future of TeX and LaTeX. For more information see our
 
 #### June 2023
 
-- 22 June --- To be announced
+- 22 June --- [Access and a Fibonacci Wedding Cake]({% post_url 2023-06-22-texhour %})
 
 
 ### Past TeX Hours
