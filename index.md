@@ -17,13 +17,15 @@ the future of TeX and LaTeX. For more information see our
 
 #### June 2023
 
-- 22 June --- [Access and a Fibonacci Wedding Cake]({% post_url 2023-06-22-texhour %})
+- 22 June --- [Symbolic languages]({% post_url 2023-06-29-texhour %})
+
 
 
 ### Past TeX Hours
 
 #### June 2023
 
+- 22 June --- [Access and a Fibonacci Wedding Cake]({% post_url 2023-06-22-texhour %})
 - 15 June --- [TALMO Accessible Math]({% post_url 2023-06-15-texhour %})
 - 8 June --- [NumFOCUS]({% post_url 2023-06-08-texhour %})
 - 1 June --- [arXiv questions]({% post_url 2023-06-01-texhour %})
