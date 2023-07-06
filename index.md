@@ -15,16 +15,23 @@ the future of TeX and LaTeX. For more information see our
 
 ### Future TeX Hours
 
-#### June 2023
+We're have a holiday until September, when a refreshed TeX Hour will
+resume on a perhaps revised regular schedule. There may be special
+meetings in July and August.
 
-- 22 June --- [Symbolic languages]({% post_url 2023-06-29-texhour %})
+### September 2023
 
+- The TeX Hour will resume its regular schedule.
 
+### July and August 2023
+
+- Holiday Season Special TeX Hours will be announced here.
 
 ### Past TeX Hours
 
 #### June 2023
 
+- 29 June --- [Symbolic languages]({% post_url 2023-06-29-texhour %})
 - 22 June --- [Access and a Fibonacci Wedding Cake]({% post_url 2023-06-22-texhour %})
 - 15 June --- [TALMO Accessible Math]({% post_url 2023-06-15-texhour %})
 - 8 June --- [NumFOCUS]({% post_url 2023-06-08-texhour %})
