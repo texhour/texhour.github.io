@@ -13,19 +13,13 @@ Accessibility forum. It's something we care about, as see as vital for
 the future of TeX and LaTeX. For more information see our
 [Accessibility](access) page.
 
-### Future TeX Hours
-
-We're have a holiday until September, when a refreshed TeX Hour will
-resume on a perhaps revised regular schedule. There may be special
-meetings in July and August.
-
 ### September 2023
 
-- The TeX Hour will resume its regular schedule.
+- 7 September --- [Accessible STEM and LaTeX]({% post_url 2023-09-07-texhour %}) (with special guest Jonathan Godfrey)
 
 ### July and August 2023
 
-- Holiday Season Special TeX Hours will be announced here.
+- Holiday Season --- no meetings
 
 ### Past TeX Hours
 
