@@ -15,13 +15,18 @@ the future of TeX and LaTeX. For more information see our
 
 ### September 2023
 
+- 14 September --- [2025 Problems]({% post_url 2023-09-14-texhour %})
+
+### Past TeX Hours
+
+
+### September 2023
+
 - 7 September --- [Accessible STEM and LaTeX]({% post_url 2023-09-07-texhour %}) (with special guest Jonathan Godfrey)
 
 ### July and August 2023
 
 - Holiday Season --- no meetings
-
-### Past TeX Hours
 
 #### June 2023
 
