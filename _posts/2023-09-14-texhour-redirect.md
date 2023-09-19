@@ -1,5 +1,4 @@
 ---
-key: y2023w37
 title: "2025 Problems"
 slug: 2025-problems
 layout: post
