@@ -15,7 +15,7 @@ the future of TeX and LaTeX. For more information see our
 
 ### September 2023
 
-- 21 September --- no meeting
+- 28 September --- no meeting
 
 
 ### Past TeX Hours
