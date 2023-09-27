@@ -15,7 +15,7 @@ the future of TeX and LaTeX. For more information see our
 
 ### September 2023
 
-- 21 September --- [2025 Problems - BibTeX]({% post_url 2023-09-21-texhour %})
+- 21 September --- no meeting
 
 
 ### Past TeX Hours
@@ -23,6 +23,7 @@ the future of TeX and LaTeX. For more information see our
 
 ### September 2023
 
+- 21 September --- [2025 Problems - BibTeX]({% post_url 2023-09-21-texhour %})
 - 14 September --- [2025 Problems - Value added typesetting]({% post_url 2023-09-14-texhour %})
 - 7 September --- [Accessible STEM and LaTeX]({% post_url 2023-09-07-texhour %}) (with special guest Jonathan Godfrey)
 
