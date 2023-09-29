@@ -29,6 +29,12 @@ Most of the meetings are recorded. Here are some URLs
 * [2022 Videos](https://www.youtube.com/playlist?list=PLw1FZfIX1w7hMtao93q9imCCYc4aoXahy)
 * Earlier videos to follow later.
 
+## Thanks
+
+We thank [River Valley Technologies](https://rivervalley.io/) for
+funding our Zoopm license for 2022--23. This license allows us to
+have meetings lasting longer than an hour, and to record these
+meetings.
 
 
 [Home](/)
