@@ -13,16 +13,16 @@ Accessibility forum. It's something we care about, as see as vital for
 the future of TeX and LaTeX. For more information see our
 [Accessibility](access) page.
 
-### September 2023
+### October 2023
 
-- 28 September --- no meeting
-
+5 October --- [2025 Problems - STEM docs and web developers]({% post_url 2023-10-05-texhour %})
 
 ### Past TeX Hours
 
 
 ### September 2023
 
+- 28 September --- no meeting
 - 21 September --- [2025 Problems - BibTeX]({% post_url 2023-09-21-texhour %})
 - 14 September --- [2025 Problems - Value added typesetting]({% post_url 2023-09-14-texhour %})
 - 7 September --- [Accessible STEM and LaTeX]({% post_url 2023-09-07-texhour %}) (with special guest Jonathan Godfrey)

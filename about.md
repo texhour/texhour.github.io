@@ -32,7 +32,7 @@ Most of the meetings are recorded. Here are some URLs
 ## Thanks
 
 We thank [River Valley Technologies](https://rivervalley.io/) for
-funding our Zoopm license for 2022--23. This license allows us to
+funding our Zoop license for 2022--23. This license allows us to
 have meetings lasting longer than an hour, and to record these
 meetings.
 
