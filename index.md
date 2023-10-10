@@ -15,9 +15,16 @@ the future of TeX and LaTeX. For more information see our
 
 ### October 2023
 
-5 October --- [2025 Problems - STEM docs and web developers]({% post_url 2023-10-05-texhour %})
+12 October --- [2025 Problems - STEM docs and web developers]({% post_url 2023-10-12-texhour %})
+
+
 
 ### Past TeX Hours
+
+### October 2023
+
+5 October --- no meeting (postponed to 12 October)
+
 
 
 ### September 2023
