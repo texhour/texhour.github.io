@@ -13,17 +13,21 @@ Accessibility forum. It's something we care about, as see as vital for
 the future of TeX and LaTeX. For more information see our
 [Accessibility](access) page.
 
+The STEM publishing system Quarto is a strong candidate for producing
+accessible documents, particularly for blind users.  To showcase this
+we're creating a [Quarto subsite](http://texhour.github.io/quarto/). Please take a look.
+
+
 ### October 2023
 
-12 October --- [2025 Problems - STEM docs and web developers]({% post_url 2023-10-12-texhour %})
-
-
+- 19 October --- [Set theory cheat sheet]({% post_url 2023-10-19-texhour %})
 
 ### Past TeX Hours
 
 ### October 2023
 
-5 October --- no meeting (postponed to 12 October)
+- 12 October --- [2025 Problems - STEM docs and web developers]({% post_url 2023-10-12-texhour %})
+- 5 October --- no meeting (postponed to 12 October)
 
 
 
